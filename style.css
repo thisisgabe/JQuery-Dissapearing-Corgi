@@ -1,0 +1,21 @@
+.wrapper {
+    width: 612px;
+    margin: 20px auto;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+img {
+    display: inline-block;
+    border: 2px black solid;
+    width: 146px;
+}
+
+button {
+    border: 3px solid black;
+    padding: 10px;
+    background-color: green;
+    box-shadow: 3px 3px #888888;
+    cursor: pointer;
+    color: whitesmoke;
+}
